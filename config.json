@@ -1,0 +1,18 @@
+{
+    "server-location": "/opt/mc-servers",
+    "backup-location": "/mnt/backup",
+    "servers":{
+
+        "tramcraft-v2":{
+            "port": "25565",
+            "xms": "2GB",
+            "xmx": "4GB"
+        },
+
+        "":{
+            "port": "25566",
+            "xms": "2GB",
+            "xmx": "4GB"
+        }
+    }
+}
